@@ -79,7 +79,11 @@ Repository: [welcome_to_es](https://github.com/OntarioTechRacing/welcome_to_es)
 
 ### 6.2 FSAE ECU Variant Projects
 
+[ecu]()
+
 [bms](https://github.com/OntarioTechRacing/bms)
+
+[imu]()
 
 ### 6.3 FSAE Sensor Module Projects
 
