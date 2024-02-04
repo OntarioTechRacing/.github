@@ -69,6 +69,8 @@ backup: [analysis_scripts](https://github.com/OntarioTechRacing/analysis_scripts
 
 [embedded_software GitHub Org Team](https://github.com/orgs/OntarioTechRacing/teams/embedded_software)
 
+[Embedded Software GitHub Project Page](https://github.com/orgs/OntarioTechRacing/projects/1)
+
 ### 6.1 Documentation Repositories
 
 Department Documentation
