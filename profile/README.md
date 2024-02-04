@@ -1,6 +1,6 @@
 # Ontario Tech Racing
 
-![OTR Logo.png](OTR%20Logo.png)
+![OTR Logo.png](..%2FOTR%20Logo.png)
 
 ---
 
